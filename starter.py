@@ -41,6 +41,10 @@ explaination = f'''
 If you start borrowing from your house and invest it at {age}, assuming you own 100% of the house and expect {Average_Expected_return}% average yearly return
 and {home_appreciation}% home appreciation, by age 70 ,<b> you can have ${value_70} million in extra cash </b>
 '''
+
+explaination = f'''By borrowing against your house at age {age} and 
+investing the money at a {Average_Expected_return}% annual return, you can accumulate an <b> extra ${value_70} million </b> by age 70, assuming your house appreciates by {home_appreciation}% per year.
+'''
 st.write(fig)
 
 st.markdown(explaination, unsafe_allow_html=True)
