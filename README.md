@@ -6,7 +6,9 @@ This app helps homeowners to understand the value of borrowing to invest. By usi
 
 Link to the app : - https://borrow-to-invest.streamlit.app
 
-! [Sample Output] (SampleOutput.png)
+! [Sample Output](https://github.com/roysaurav/Borrow-To-Invest-BTI/blob/main/SampleOutput.png)
+
+! [Sample Output](SampleOutput.png)
 
 ------
 The app is built with Streamlit, a Python framework that simplifies AI app development. You can run the app locally
