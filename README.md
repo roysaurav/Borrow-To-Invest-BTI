@@ -7,6 +7,7 @@ This app helps homeowners to understand the value of borrowing to invest. By usi
 Link to the app : - https://borrow-to-invest.streamlit.app
 
 **Sample Output**
+
 ![Sample Output](./SampleOutput.png)
 
 By borrowing against your house at age 35 and investing the money at a 10% annual return, you can accumulate an **extra $3.59 million** by age 70, assuming your house appreciates by 5% per year.
