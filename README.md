@@ -1,4 +1,4 @@
-# Borrow to Invest Streamlit App
+# Borrow to Invest Visualizer
 
 This app helps homeowners to understand the value of borrowing to invest. By using the equity in your house, you can take out a loan and invest it in the stock market or other assets that generate higher returns than the interest rate. This way, you can build wealth over time and achieve your financial goals faster.
 
