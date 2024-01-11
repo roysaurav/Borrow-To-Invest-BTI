@@ -17,7 +17,7 @@ By borrowing against your house at age 35 and investing the money at a 10% annua
 ------
 The app is built with Streamlit, a Python framework that simplifies AI app development. You can run the app locally
 
-streamlit run borrow-to-invest.py
+`streamlit run borrow-to-invest.py`
 
 Feel free to fork, clone, or modify the app as you wish.
 
