@@ -46,7 +46,7 @@ and {home_appreciation}% home appreciation, by age 70 ,<b> you can have ${value_
 explaination = f'''By borrowing against your house at age {age} and 
 investing the money at a {Average_Expected_return}% annual return, you can accumulate an <b> extra ${value_70} million </b> by age 70, assuming your house appreciates by {home_appreciation}% per year.
 '''
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, use_container_width=True, theme="streamlit")
 
 st.markdown(explaination, unsafe_allow_html=True)
 #st.write("Add anntation to graph \n Use microsoft forms", unsafe_allow_html=True)
